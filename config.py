@@ -1,0 +1,6 @@
+customhost = "employeedatabase.cebp2zspw9fl.ap-south-1.rds.amazonaws.com"
+customuser = "naveen"
+custompass = "naveenkumar"
+customdb = "employee"
+custombucket = "addemployeedynamic"
+customregion = "ap-south-1a"
